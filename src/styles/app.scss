@@ -1,0 +1,15 @@
+
+ @import"./styles/lib/core/reset";
+ @import "./styles/swiper.min.css";
+ @import"./styles/usage/module/index";
+ @import"./styles/usage/module/home";
+ @import"./styles/usage/common/common";
+ html,body{
+ 	width: 100%;
+ 	height: 100%;
+ }
+ html{
+	font-size: 100px;
+}
+
+
